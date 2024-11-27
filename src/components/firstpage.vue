@@ -3,16 +3,23 @@
         <el-container style="height:100vh">
             <el-header style="--el-header-padding:0px">
                 <el-row class="container">
-                    <el-col :span="24" class="header"><div><el-text class="header-title">天地劫流火盒子工具</el-text></div></el-col>
+                    <el-col :span="24" class="header">
+                        <el-image :src="'/logo.png'" fit="cover" style="height:60px; align-items: center;" />
+                        <el-text class="header-title">天地劫流火盒子工具</el-text>
+                    </el-col>
                 </el-row>
             </el-header>
+            <!-- <el-container style="background-image: url('/background.jpg'); background-size: cover;"> -->
             <el-container>
-                <el-aside width="32%">
+                <el-aside width="33%">
                     <div v-for="(col, index) in boxStyleValue" :key="index" style="margin-left: 20px">
                         <el-space :size="20">
                             <div v-for="(row, rowIndex) in col" :key="rowIndex" class="radius" :style="{boxShadow:row.shadowValue}" @mouseover="mouseOverBox(index, rowIndex)" @mouseout="mouseOutBox(index, rowIndex)">
                                 <el-button v-if="row.url === ''" class="boxButton" @click.native="boxSelectOn(index,rowIndex)">点击选择英灵</el-button>
                                 <el-image v-if="row.url !== ''" class="boxImage" style="border-radius:20px;" :src="row.url" fit="fill" @click.native="boxSelectOn(index,rowIndex)" />
+                            </div>
+                            <div v-if="index === 3" class="radius">
+                                <el-image style="border-radius:20px;" :src="'/banner.png'" fit="cover" />
                             </div>
                         </el-space>
                     </div>
@@ -177,14 +184,16 @@ import { ElCard } from 'element-plus';
 import { watch } from 'vue'
 import{ref} from 'vue'
 import { reactive } from 'vue';
+import { ElNotification } from 'element-plus'
 
 export default{
     data(){
         return{
-            boxIsMoveOver:[[-1, -1, -1], [-1, -1, -1], [-1, -1, -1]],
+            boxIsMoveOver:[[-1, -1, -1. -1], [-1, -1, -1. -1], [-1, -1, -1, -1], [-1, -1, -1]],
             boxStyleValue:[
-                [{radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}],
-                [{radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}],
+                [{radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}],
+                [{radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}],
+                [{radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}],
                 [{radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}, {radiusValue:'', shadowValue: '', url: '', selectedCharacter:'', name:''}]
             ],
             boxSelectVisible:false,
@@ -265,7 +274,7 @@ export default{
                 }
                 
                 if(zhenfa === true){
-                    if(this.getBoxTable[i].zhenfa != "-"){
+                    if(this.getBoxTable[i].zhenfa != "无"){
                         isZFFind = true;
                     }
                 }else{
@@ -376,8 +385,16 @@ export default{
             for(let i = 0; i < this.selectedCharacter.length; i++){
                 if(name !== this.selectedCharacter[i]){
                     for(let j = 0; j < this.getBoxTable.length; j++){
-                        if(this.selectedCharacter[i] === this.getBoxTable[j].name && gender1 === this.getBoxTable[j].gender){
+                        if(first === false && this.selectedCharacter[i] === this.getBoxTable[j].name && gender1 === this.getBoxTable[j].gender){
                             first =true;
+                            continue;
+                        }
+                        if(this.selectedCharacter[i] === this.getBoxTable[j].name && gender2 === this.getBoxTable[j].gender){
+                            second =true;
+                        }
+                    }
+                    for(let j = 0; j < this.getBoxTable.length; j++){
+                        if(this.selectedCharacter[i] === this.getBoxTable[j].name && gender1 === this.getBoxTable[j].gender){
                             let temp = {
                                 "name" : this.selectedCharacter[i],
                                 "url" : this.getBoxTable[j].image
@@ -385,7 +402,42 @@ export default{
                             zhenfaXiangQing["阵法条件1满足英灵"].push(temp)
                         }
                         if(this.selectedCharacter[i] === this.getBoxTable[j].name && gender2 === this.getBoxTable[j].gender){
+                            let temp = {
+                                "name" : this.selectedCharacter[i],
+                                "url" : this.getBoxTable[j].image
+                            }
+                            zhenfaXiangQing["阵法条件2满足英灵"].push(temp)
+                        }
+                    }
+                }
+            }
+            if(first === true && second === true){
+                return true;
+            }
+            return false;
+        },
+        zhenfaSearchInChara(name, zhenfaXiangQing){
+            let first = false, second = false;
+            for(let i = 0; i < this.selectedCharacter.length; i++){
+                if(name !== this.selectedCharacter[i]){
+                    for(let j = 0; j < this.getBoxTable.length; j++){
+                        if(first === false && this.selectedCharacter[i] === this.getBoxTable[j].name && '无' != this.getBoxTable[j].zhenfa){
+                            first =true;
+                            continue;
+                        }
+                        if(this.selectedCharacter[i] === this.getBoxTable[j].name && '无' != this.getBoxTable[j].zhenfa){
                             second =true;
+                        }
+                    }
+                    for(let j = 0; j < this.getBoxTable.length; j++){
+                        if(this.selectedCharacter[i] === this.getBoxTable[j].name && '无' != this.getBoxTable[j].zhenfa){
+                            let temp = {
+                                "name" : this.selectedCharacter[i],
+                                "url" : this.getBoxTable[j].image
+                            }
+                            zhenfaXiangQing["阵法条件1满足英灵"].push(temp)
+                        }
+                        if(this.selectedCharacter[i] === this.getBoxTable[j].name && '无' != this.getBoxTable[j].zhenfa){
                             let temp = {
                                 "name" : this.selectedCharacter[i],
                                 "url" : this.getBoxTable[j].image
@@ -536,6 +588,16 @@ export default{
                                 zhenfaIsOpen = false;
                             }
                             break;
+                        case "ZhenFa":
+                            if(this.zhenfaSearchInChara(this.selectedCharacter[i], zhenfaXiangQing)){
+                                this.selectedZhenFa['可生效个数']++;
+                                zhenfaIsOpen = true;
+                            }
+                            else{
+                                this.selectedZhenFa['无法生效个数']++;
+                                zhenfaIsOpen = false;
+                            }
+                            break;
                     }
                     zhenfaXiangQing["阵法是否可以启用"] = zhenfaIsOpen;
                     this.zhenfas.push(zhenfaXiangQing)
@@ -600,13 +662,14 @@ export default{
         tipsChange(){
             var randomNum = Math.floor(Math.random() * this.tips.length);
             this.tip = this.tips[randomNum];
-        }
+        },
 
     },
 
     mounted(){
-        for(let i = 0; i < 3; i++){
-            for(let j = 0; j < 3; j++){
+        for(let i = 0; i < 4; i++){
+            let temp = i == 3 ? 3 : 4;
+            for(let j = 0; j < temp; j++){
                 if(this.boxIsMoveOver[i][j] == -1){
                     this.boxStyleValue[i][j].radiusValue = 'var(--el-border-radius-round)';
                     this.boxStyleValue[i][j].shadowValue = 'var(--el-box-shadow)';
@@ -620,7 +683,22 @@ export default{
             .then(response => response.json())
             .then(data => {
                 this.getBoxTable = data;
+                //console.log(data.length)
+                //let name = [];
+                //for(let i = 0; i < data.length; i++){
+                //    let isFind = false;
+                //    for(let j = 0; j < name.length; j++){
+                //        if(name[j] === data[i].name){
+                //            console.log(data[i].name);
+                //            isFind = true;
+                //        }
+                //    }
+                //    if(!isFind){
+                //        name.push(data[i].name)
+                //    }
+                //}
             })
+        
 
         this.boxSelectForm.hasZF = '1';
 
@@ -634,12 +712,13 @@ export default{
 .container {
     width: 100%;
     .header {
+        display: flex; 
+        align-items: center;
         height: 60px;
         line-height: 60px;
         background: #3bb9f3;
         color: #fff;
         .header-title{
-            margin-left: 30px;
             text-align: left;
             color: white;
             font-size: 1.5em;
@@ -691,20 +770,20 @@ export default{
     }
 }
 .radius {
-    height: 352px;
-    width: 248px;
+    height: 264px;
+    width: 186px;
     border-radius: 20px;
     margin-top: 20px;
 }
 
 .boxButton {
-    height: 352px;
-    width: 248px;
+    height: 264px;
+    width: 186px;
     border-radius: 20px;
 }
 
 .boxImage {
-    height: 352px;
-    width: 248px;
+    height: 264px;
+    width: 186px;
 }
 </style>
