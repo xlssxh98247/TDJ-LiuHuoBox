@@ -8,9 +8,11 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  publicPath: '/TDJ-LiuHuoBox/',
+  base: '/TDJ-LiuHuoBox/',
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url))
+      '@': fileURLToPath(new URL('./TDJ-LiuHuoBox/src', import.meta.url))
     },
   },
 })
