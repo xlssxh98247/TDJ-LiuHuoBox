@@ -1,6 +1,6 @@
 [
 {
-    "image" : "/touxiang/真胤.png",
+    "image" : "/touxiang/真胤.webp",
     "name" : "真胤",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -11,7 +11,7 @@
     "zhenfaMiaoShu" : "阵眼+阵眼",
     "zhenfaBuffer" : "上阵真胤和至少2位「阵眼」英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，2格内有其他友方角色时，绝学伤害提升10%。"
 },{
-    "image" : "/touxiang/惊飞羽.png",
+    "image" : "/touxiang/惊飞羽.webp",
     "name" : "惊飞羽",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -23,7 +23,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/封铃笙.png",
+    "image" : "/touxiang/封铃笙.webp",
     "name" : "封铃笙",
     "gender" : "女",
     "shuxiang" : "光",
@@ -35,7 +35,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/冰璃.png",
+    "image" : "/touxiang/冰璃.webp",
     "name" : "冰璃",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -47,7 +47,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/四象明月.png",
+    "image" : "/touxiang/四象明月.webp",
     "name" : "四象明月",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -59,7 +59,7 @@
     "zhenfaBuffer" : "上阵四象明月和「光」，「雷」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身气血越高/低，伤害/免伤越高，最多提高10%。"
 },
 {
-    "image" : "/touxiang/双魂虞兮.png",
+    "image" : "/touxiang/双魂虞兮.webp",
     "name" : "双魂虞兮",
     "gender" : "女",
     "shuxiang" : "光",
@@ -71,7 +71,7 @@
     "zhenfaBuffer" : "上阵双魂虞兮和「光」，「暗」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，3格范围内存在其他「光」属相角色时，免伤提高8%，3格范围内存在其他「暗」属相角色时，伤害提高8%。"
 },
 {
-    "image" : "/touxiang/瑶空.png",
+    "image" : "/touxiang/瑶空.webp",
     "name" : "瑶空",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -83,7 +83,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/悟空.png",
+    "image" : "/touxiang/悟空.webp",
     "name" : "悟空",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -95,7 +95,7 @@
     "zhenfaBuffer" : "上阵悟空和「冰」，「幽」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，主动攻击若目标未携带「有益状态」伤害、暴击率提高8%。"
 },
 {
-    "image" : "/touxiang/傅雅鱼.png",
+    "image" : "/touxiang/傅雅鱼.webp",
     "name" : "傅雅鱼",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -107,7 +107,7 @@
     "zhenfaBuffer" : "上阵傅雅鱼和「男性」、「女性」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，2格范围内存在其他男性角色时，伤害提高8%，2格范围内存在其他女性角色时，免伤提高8%。"
 },
 {
-    "image" : "/touxiang/胧夜.png",
+    "image" : "/touxiang/胧夜.webp",
     "name" : "胧夜",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -119,7 +119,7 @@
     "zhenfaBuffer" : "上阵胧夜和「侠客」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。与无克制关系的目标「对战中」伤害提升8%，受到克制伤害降低8%。"
 },
 {
-    "image" : "/touxiang/夏侯仪.png",
+    "image" : "/touxiang/夏侯仪.webp",
     "name" : "夏侯仪",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -131,7 +131,7 @@
     "zhenfaBuffer" : "上阵夏侯仪，冰璃和慕容璇玑时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，造成范围伤害额外提高10%。"
 },
 {
-    "image" : "/touxiang/慕容璇玑.png",
+    "image" : "/touxiang/慕容璇玑.webp",
     "name" : "慕容璇玑",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -143,7 +143,7 @@
     "zhenfaBuffer" : "上阵慕容璇玑和至少2位「雷」属性英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，主动攻击暴击率提升15%。"
 },
 {
-    "image" : "/touxiang/桑然.png",
+    "image" : "/touxiang/桑然.webp",
     "name" : "桑然",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -155,7 +155,7 @@
     "zhenfaBuffer" : "上阵桑然和「祝由」，「斗将」职业英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，进行近战对战时，「对战中」伤害和免伤提高8%。"
 },
 {
-    "image" : "/touxiang/白骨夫人.png",
+    "image" : "/touxiang/白骨夫人.webp",
     "name" : "白骨夫人",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -167,7 +167,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/苍狼.png",
+    "image" : "/touxiang/苍狼.webp",
     "name" : "苍狼",
     "gender" : "男",
     "shuxiang" : "光",
@@ -179,7 +179,7 @@
     "zhenfaBuffer" : "上阵苍狼和「咒师」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。3格范围内其他友方大于等于2名时，伤害和免伤提高8%。"
 },
 {
-    "image" : "/touxiang/双曜冰璃.png",
+    "image" : "/touxiang/双曜冰璃.webp",
     "name" : "双曜冰璃",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -191,7 +191,7 @@
     "zhenfaBuffer" : "上阵双曜冰璃和「侠客」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。与非飞行角色「对战中」伤害和暴击抗性提高8%。"
 },
 {
-    "image" : "/touxiang/胧梦婳妖.png",
+    "image" : "/touxiang/胧梦婳妖.webp",
     "name" : "胧梦婳妖",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -203,7 +203,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/苏醒者.png",
+    "image" : "/touxiang/苏醒者.webp",
     "name" : "苏醒者",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -215,7 +215,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/白玉堂.png",
+    "image" : "/touxiang/白玉堂.webp",
     "name" : "白玉堂",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -227,7 +227,7 @@
     "zhenfaBuffer" : "上阵白玉堂和「暗」，「炎」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身携带「有益状态」时，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/尉迟良.png",
+    "image" : "/touxiang/尉迟良.webp",
     "name" : "尉迟良",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -239,7 +239,7 @@
     "zhenfaBuffer" : "上阵尉迟良和「铁卫」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，身周2格有友方角色时，提升10%伤害。"
 },
 {
-    "image" : "/touxiang/虞兮.png",
+    "image" : "/touxiang/虞兮.webp",
     "name" : "虞兮",
     "gender" : "女",
     "shuxiang" : "光",
@@ -251,7 +251,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/鹿昭依.png",
+    "image" : "/touxiang/鹿昭依.webp",
     "name" : "鹿昭依",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -263,7 +263,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/皇甫申.png",
+    "image" : "/touxiang/皇甫申.webp",
     "name" : "皇甫申",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -275,7 +275,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/殷剑平.png",
+    "image" : "/touxiang/殷剑平.webp",
     "name" : "殷剑平",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -287,7 +287,7 @@
     "zhenfaBuffer" : "上阵殷剑平和至少2位「炎」属性英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，主动攻击「对战中」伤害提高10%。"
 },
 {
-    "image" : "/touxiang/封寒月.png",
+    "image" : "/touxiang/封寒月.webp",
     "name" : "封寒月",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -299,7 +299,7 @@
     "zhenfaBuffer" : "上阵封寒月和至少2位「冰」属性英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，自身满血时，物穿，法穿提高10%。"
 },
 {
-    "image" : "/touxiang/郸阴.png",
+    "image" : "/touxiang/郸阴.webp",
     "name" : "郸阴",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -311,7 +311,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/韩千秀.png",
+    "image" : "/touxiang/韩千秀.webp",
     "name" : "韩千秀",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -323,7 +323,7 @@
     "zhenfaBuffer" : "上阵韩千秀和「侠客」，「铁卫」英灵至少各一名时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，主动造成伤害后，额外附加1次「固定伤害」（目标当前气血*15%）。"
 },
 {
-    "image" : "/touxiang/古伦德.png",
+    "image" : "/touxiang/古伦德.webp",
     "name" : "古伦德",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -335,7 +335,7 @@
     "zhenfaBuffer" : "上阵古伦德和至少2位「男性」英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，自身气血未满时，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/燕明蓉.png",
+    "image" : "/touxiang/燕明蓉.webp",
     "name" : "燕明蓉",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -347,7 +347,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/解臾.png",
+    "image" : "/touxiang/解臾.webp",
     "name" : "解臾",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -359,7 +359,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/葛云衣.png",
+    "image" : "/touxiang/葛云衣.webp",
     "name" : "葛云衣",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -371,7 +371,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/阴歙.png",
+    "image" : "/touxiang/阴歙.webp",
     "name" : "阴歙",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -383,7 +383,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/秦惟刚.png",
+    "image" : "/touxiang/秦惟刚.webp",
     "name" : "秦惟刚",
     "gender" : "男",
     "shuxiang" : "冰",
@@ -395,7 +395,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/紫枫.png",
+    "image" : "/touxiang/紫枫.webp",
     "name" : "紫枫",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -407,7 +407,7 @@
     "zhenfaBuffer" : "上阵紫枫和「羽士」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，携带移动力提高的状态时，使用绝学伤害提高10%。"
 },
 {
-    "image" : "/touxiang/曹沁.png",
+    "image" : "/touxiang/曹沁.webp",
     "name" : "曹沁",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -419,7 +419,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/黎幽.png",
+    "image" : "/touxiang/黎幽.webp",
     "name" : "黎幽",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -431,7 +431,7 @@
     "zhenfaBuffer" : "上阵黎幽和至少2位「暗」属性英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，攻击携带3个及以上「有害状态」的目标时，伤害提高15%。"
 },
 {
-    "image" : "/touxiang/宇韶容.png",
+    "image" : "/touxiang/宇韶容.webp",
     "name" : "宇韶容",
     "gender" : "女",
     "shuxiang" : "光",
@@ -443,7 +443,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/剑邪.png",
+    "image" : "/touxiang/剑邪.webp",
     "name" : "剑邪",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -455,7 +455,7 @@
     "zhenfaBuffer" : "上阵剑邪和「暗」，「冰」属性英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，周围2圈内每有1个敌人，造成伤害提高5%（最多15%）。"
 },
 {
-    "image" : "/touxiang/诸葛艾.png",
+    "image" : "/touxiang/诸葛艾.webp",
     "name" : "诸葛艾",
     "gender" : "女",
     "shuxiang" : "光",
@@ -467,7 +467,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/殷无邪.png",
+    "image" : "/touxiang/殷无邪.webp",
     "name" : "殷无邪",
     "gender" : "男",
     "shuxiang" : "冰",
@@ -479,7 +479,7 @@
     "zhenfaBuffer" : "上阵殷无邪和至少2位「女性」英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，2格范围内存在女性角色时，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/林月如.png",
+    "image" : "/touxiang/林月如.webp",
     "name" : "林月如",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -491,7 +491,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/赵灵儿.png",
+    "image" : "/touxiang/赵灵儿.webp",
     "name" : "赵灵儿",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -503,7 +503,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/李逍遥.png",
+    "image" : "/touxiang/李逍遥.webp",
     "name" : "李逍遥",
     "gender" : "男",
     "shuxiang" : "光",
@@ -515,7 +515,7 @@
     "zhenfaBuffer" : "上阵李逍遥和「咒师」，「御风」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身每有1个「有益状态」，伤害提高5%（最多提高15%）。"
 },
 {
-    "image" : "/touxiang/宇文拓.png",
+    "image" : "/touxiang/宇文拓.webp",
     "name" : "宇文拓",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -527,7 +527,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/于小雪.png",
+    "image" : "/touxiang/于小雪.webp",
     "name" : "于小雪",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -539,7 +539,7 @@
     "zhenfaBuffer" : "上阵于小雪和「侠客」、「铁卫」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，自身携带「有害状态」小于3个，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/方芸.png",
+    "image" : "/touxiang/方芸.webp",
     "name" : "方芸",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -551,7 +551,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/上官远.png",
+    "image" : "/touxiang/上官远.webp",
     "name" : "上官远",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -563,7 +563,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/铁手夏侯仪.png",
+    "image" : "/touxiang/铁手夏侯仪.webp",
     "name" : "铁手夏侯仪",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -575,7 +575,7 @@
     "zhenfaBuffer" : "上阵铁手夏侯仪和「雷」，「冰」属性英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，3格范围内存在气血未满的角色，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/赤炼.png",
+    "image" : "/touxiang/赤炼.webp",
     "name" : "赤炼",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -587,7 +587,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/召祐.png",
+    "image" : "/touxiang/召祐.webp",
     "name" : "召祐",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -599,7 +599,7 @@
     "zhenfaBuffer" : "上阵召祐和「炎」，「冰」属性英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，3格范围内存在「炎」或「冰」属性角色，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/舞蝶.png",
+    "image" : "/touxiang/舞蝶.webp",
     "name" : "舞蝶",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -611,7 +611,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/武英仲.png",
+    "image" : "/touxiang/武英仲.webp",
     "name" : "武英仲",
     "gender" : "男",
     "shuxiang" : "光",
@@ -623,7 +623,7 @@
     "zhenfaBuffer" : "上阵武英仲和至少2位「光」属性英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，若目标未携带「有益状态」，「对战中」伤害提高15%。"
 },
 {
-    "image" : "/touxiang/云襄.png",
+    "image" : "/touxiang/云襄.webp",
     "name" : "云襄",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -635,7 +635,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/鲜于超.png",
+    "image" : "/touxiang/鲜于超.webp",
     "name" : "鲜于超",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -647,7 +647,7 @@
     "zhenfaBuffer" : "上阵鲜于超和「羽士」，「咒师」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，气血高于70%时，伤害和免伤提高8%。"
 },
 {
-    "image" : "/touxiang/玄羽.png",
+    "image" : "/touxiang/玄羽.webp",
     "name" : "玄羽",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -659,7 +659,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/燕赤霞.png",
+    "image" : "/touxiang/燕赤霞.webp",
     "name" : "燕赤霞",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -671,7 +671,7 @@
     "zhenfaBuffer" : "上阵燕赤霞和「咒师」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，3格内每多1个其他角色，伤害和暴击率提高2%（最多提高8%）。"
 },
 {
-    "image" : "/touxiang/聂小倩.png",
+    "image" : "/touxiang/聂小倩.webp",
     "name" : "聂小倩",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -683,7 +683,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/宁采臣.png",
+    "image" : "/touxiang/宁采臣.webp",
     "name" : "宁采臣",
     "gender" : "男",
     "shuxiang" : "光",
@@ -695,7 +695,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/春兰.png",
+    "image" : "/touxiang/春兰.webp",
     "name" : "春兰",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -707,7 +707,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/奚歌.png",
+    "image" : "/touxiang/奚歌.webp",
     "name" : "奚歌",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -719,7 +719,7 @@
     "zhenfaBuffer" : "上阵奚歌和「炎」，「雷」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，单体绝学伤害提高10%。"
 },
 {
-    "image" : "/touxiang/霍雍.png",
+    "image" : "/touxiang/霍雍.webp",
     "name" : "霍雍",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -731,7 +731,7 @@
     "zhenfaBuffer" : "上阵霍雍和「炎」，「冰」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，若气血高于50%且未携带「有害状态」，伤害提高15%。"
 },
 {
-    "image" : "/touxiang/九阴.png",
+    "image" : "/touxiang/九阴.webp",
     "name" : "九阴",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -743,7 +743,7 @@
     "zhenfaBuffer" : "上阵九阴和「光」，「暗」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，3格范围内同时存在其他「光」和「暗」属相角色，伤害和暴击率提高8%。"
 },
 {
-    "image" : "/touxiang/高皇君.png",
+    "image" : "/touxiang/高皇君.webp",
     "name" : "高皇君",
     "gender" : "女",
     "shuxiang" : "光",
@@ -755,7 +755,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/任断离.png",
+    "image" : "/touxiang/任断离.webp",
     "name" : "任断离",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -767,7 +767,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/银玛.png",
+    "image" : "/touxiang/银玛.webp",
     "name" : "银玛",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -779,7 +779,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/云衣宫主.png",
+    "image" : "/touxiang/云衣宫主.webp",
     "name" : "云衣宫主",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -791,7 +791,7 @@
     "zhenfaBuffer" : "上阵云衣宫主和「雷」，「光」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身有主动绝学处于冷却中时，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/灵鼩.png",
+    "image" : "/touxiang/灵鼩.webp",
     "name" : "灵鼩",
     "gender" : "男",
     "shuxiang" : "光",
@@ -803,7 +803,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/无相·弭服.png",
+    "image" : "/touxiang/无相·弭服.webp",
     "name" : "无相·弭服",
     "gender" : "女",
     "shuxiang" : "光",
@@ -815,7 +815,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/白复归.png",
+    "image" : "/touxiang/白复归.webp",
     "name" : "白复归",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -827,7 +827,7 @@
     "zhenfaBuffer" : "上阵白复归和「冰」，「暗」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，2格内存在携带「有害状态」的友方时免伤提高8%，2格内存在携带「有害状态」的敌方时伤害提高8%。"
 },
 {
-    "image" : "/touxiang/憛香.png",
+    "image" : "/touxiang/憛香.webp",
     "name" : "憛香",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -839,7 +839,7 @@
     "zhenfaBuffer" : "上阵憛香和「侠客」，「铁卫」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，若自身未携带「有害状态」，范围伤害和暴击率提高8%。"
 },
 {
-    "image" : "/touxiang/隋酒.png",
+    "image" : "/touxiang/隋酒.webp",
     "name" : "隋酒",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -851,7 +851,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/展昭.png",
+    "image" : "/touxiang/展昭.webp",
     "name" : "展昭",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -863,7 +863,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/允迦.png",
+    "image" : "/touxiang/允迦.webp",
     "name" : "允迦",
     "gender" : "女",
     "shuxiang" : "光",
@@ -875,7 +875,7 @@
     "zhenfaBuffer" : "上阵允迦和「暗」，「雷」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，伤害提升15%，3格范围内每有1个敌方，造成伤害降低5%（最多15%）。"
 },
 {
-    "image" : "/touxiang/魔化皇甫申.png",
+    "image" : "/touxiang/魔化皇甫申.webp",
     "name" : "魔化皇甫申",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -887,7 +887,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/神阙青衣.png",
+    "image" : "/touxiang/神阙青衣.webp",
     "name" : "神阙青衣",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -899,7 +899,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/卓尔.png",
+    "image" : "/touxiang/卓尔.webp",
     "name" : "卓尔",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -911,7 +911,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/巴艾迩.png",
+    "image" : "/touxiang/巴艾迩.webp",
     "name" : "巴艾迩",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -923,7 +923,7 @@
     "zhenfaBuffer" : "上阵巴艾迩和「咒师」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，伤害提升8%，暴击率提高8%，2格范围内每有1个其他友方，造成伤害降低4%（最多8%），造成暴击率降低4%（最多8%）。"
 },
 {
-    "image" : "/touxiang/呼延朔.png",
+    "image" : "/touxiang/呼延朔.webp",
     "name" : "呼延朔",
     "gender" : "男",
     "shuxiang" : "光",
@@ -935,7 +935,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/阿秋.png",
+    "image" : "/touxiang/阿秋.webp",
     "name" : "阿秋",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -947,7 +947,7 @@
     "zhenfaBuffer" : "上阵阿秋和「炎」，「光」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，使用伤害绝学时，对处于自身直线位置的目标，暴击率和伤害提高8%。"
 },
 {
-    "image" : "/touxiang/法海.png",
+    "image" : "/touxiang/法海.webp",
     "name" : "法海",
     "gender" : "男",
     "shuxiang" : "光",
@@ -959,7 +959,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/青.png",
+    "image" : "/touxiang/青.webp",
     "name" : "青",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -971,7 +971,7 @@
     "zhenfaBuffer" : "上阵青和「雷」，「光」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。目标每有1个「有害状态」，「对战中」伤害提高5%（最多提高15%）。"
 },
 {
-    "image" : "/touxiang/白素贞.png",
+    "image" : "/touxiang/白素贞.webp",
     "name" : "白素贞",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -983,7 +983,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/西莉亚.png",
+    "image" : "/touxiang/西莉亚.webp",
     "name" : "西莉亚",
     "gender" : "女",
     "shuxiang" : "光",
@@ -995,7 +995,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/星占贤者.png",
+    "image" : "/touxiang/星占贤者.webp",
     "name" : "星占贤者",
     "gender" : "女",
     "shuxiang" : "光",
@@ -1007,7 +1007,7 @@
     "zhenfaBuffer" : "上阵星占贤者和至少2位「光」属相英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，2格范围内存在其他「光」属相角色，暴击伤害减免和伤害提高8%。"
 },
 {
-    "image" : "/touxiang/公孙七月.png",
+    "image" : "/touxiang/公孙七月.webp",
     "name" : "公孙七月",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -1019,7 +1019,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/殷千炀.png",
+    "image" : "/touxiang/殷千炀.webp",
     "name" : "殷千炀",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -1031,7 +1031,7 @@
     "zhenfaBuffer" : "上阵殷千炀和「咒师」，「铁卫」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。「对战中」自身气血大于等于50%时免伤提高8%，目标气血大于等于50%时伤害提高8%。"
 },
 {
-    "image" : "/touxiang/少侠应奉仁.png",
+    "image" : "/touxiang/少侠应奉仁.webp",
     "name" : "少侠应奉仁",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -1043,7 +1043,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/朝歌.png",
+    "image" : "/touxiang/朝歌.webp",
     "name" : "朝歌",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -1055,7 +1055,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/幽篁.png",
+    "image" : "/touxiang/幽篁.webp",
     "name" : "幽篁",
     "gender" : "男",
     "shuxiang" : "幽",
@@ -1067,7 +1067,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/露葵.png",
+    "image" : "/touxiang/露葵.webp",
     "name" : "露葵",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1079,7 +1079,7 @@
     "zhenfaBuffer" : "上阵露葵和「铁卫」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。自身满血时，伤害提高8%，气血未满时，免伤提高8%。"
 },
 {
-    "image" : "/touxiang/归棹.png",
+    "image" : "/touxiang/归棹.webp",
     "name" : "归棹",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -1091,7 +1091,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/罗渊女皇.png",
+    "image" : "/touxiang/罗渊女皇.webp",
     "name" : "罗渊女皇",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -1103,7 +1103,7 @@
     "zhenfaBuffer" : "上阵罗渊女皇和「炎」，「冰」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身携带「有益状态」时伤害提高8%，自身未携带「有益状态」时免伤提高8%。"
 },
 {
-    "image" : "/touxiang/双双.png",
+    "image" : "/touxiang/双双.webp",
     "name" : "双双",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1115,7 +1115,7 @@
     "zhenfaBuffer" : "上阵双双和「暗」，「雷」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。2格内存在携带「有益状态」的其他友方时伤害提高10%"
 },
 {
-    "image" : "/touxiang/霸熊高戚.png",
+    "image" : "/touxiang/霸熊高戚.webp",
     "name" : "霸熊高戚",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -1127,7 +1127,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/安逸.png",
+    "image" : "/touxiang/安逸.webp",
     "name" : "安逸",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -1139,7 +1139,7 @@
     "zhenfaBuffer" : "上阵安逸和「羽士」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，目标不满血时，「对战中」自身伤害提高10%"
 },
 {
-    "image" : "/touxiang/御卿.png",
+    "image" : "/touxiang/御卿.webp",
     "name" : "御卿",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -1151,7 +1151,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/九色鹿.png",
+    "image" : "/touxiang/九色鹿.webp",
     "name" : "九色鹿",
     "gender" : "？",
     "shuxiang" : "光",
@@ -1163,7 +1163,7 @@
     "zhenfaBuffer" : "上阵九色鹿和「咒师」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。自身满血时伤害提高8%，自身未携带「有害状态」时免伤提高8%。"
 },
 {
-    "image" : "/touxiang/伎乐飞天.png",
+    "image" : "/touxiang/伎乐飞天.webp",
     "name" : "伎乐飞天",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -1175,7 +1175,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/萧熇.png",
+    "image" : "/touxiang/萧熇.webp",
     "name" : "萧熇",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -1187,7 +1187,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/太玄灵狐.png",
+    "image" : "/touxiang/太玄灵狐.webp",
     "name" : "太玄灵狐",
     "gender" : "女",
     "shuxiang" : "光",
@@ -1199,7 +1199,7 @@
     "zhenfaBuffer" : "上阵太玄灵狐和「火」，「幽」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。目标气血低于90%时，「对战中」伤害提高8%；自身气血低于90%时，「对战中」免伤提高8%。"
 },
 {
-    "image" : "/touxiang/朱槿.png",
+    "image" : "/touxiang/朱槿.webp",
     "name" : "朱槿",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -1211,7 +1211,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/月孛.png",
+    "image" : "/touxiang/月孛.webp",
     "name" : "月孛",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -1223,7 +1223,7 @@
     "zhenfaBuffer" : "上阵月孛和「斗将」，「铁卫」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。与携带「属性降低」类「有害状态」的敌方「对战中」伤害和免伤提高8%。"
 },
 {
-    "image" : "/touxiang/瑶姬.png",
+    "image" : "/touxiang/瑶姬.webp",
     "name" : "瑶姬",
     "gender" : "女",
     "shuxiang" : "雷",
@@ -1235,7 +1235,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/剑魂·天尊.png",
+    "image" : "/touxiang/剑魂·天尊.webp",
     "name" : "剑魂·天尊",
     "gender" : "男",
     "shuxiang" : "暗",
@@ -1247,7 +1247,7 @@
     "zhenfaBuffer" : "上阵剑魂·天尊和「雷」，「幽」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，若自身未携带「有害状态」，「对战中」伤害提高15%。"
 },
 {
-    "image" : "/touxiang/雪芝.png",
+    "image" : "/touxiang/雪芝.webp",
     "name" : "雪芝",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1259,7 +1259,7 @@
     "zhenfaBuffer" : "上阵雪芝和「咒师」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。攻击存在主动绝学处于冷却中的敌方时，伤害提高10%。"
 },
 {
-    "image" : "/touxiang/瞿牧之.png",
+    "image" : "/touxiang/瞿牧之.webp",
     "name" : "瞿牧之",
     "gender" : "男",
     "shuxiang" : "光",
@@ -1271,7 +1271,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/妮可.png",
+    "image" : "/touxiang/妮可.webp",
     "name" : "妮可",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -1283,7 +1283,7 @@
     "zhenfaBuffer" : "上阵妮可和「侠客」，「斗将」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，主动攻击时，伤害提高7%，技能范围内每多1个目标，伤害额外提高2%（最多额外提高8%）。"
 },
 {
-    "image" : "/touxiang/赛特.png",
+    "image" : "/touxiang/赛特.webp",
     "name" : "赛特",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -1295,7 +1295,7 @@
     "zhenfaBuffer" : "上阵赛特和「暗」，「雷」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身气血越高，伤害和暴击率越高（最高8%）。"
 },
 {
-    "image" : "/touxiang/李靖.png",
+    "image" : "/touxiang/李靖.webp",
     "name" : "李靖",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -1307,7 +1307,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/冰蝉玉剑.png",
+    "image" : "/touxiang/冰蝉玉剑.webp",
     "name" : "冰蝉玉剑",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1319,7 +1319,7 @@
     "zhenfaBuffer" : "上阵冰蝉玉剑和「御风」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%。主动攻击时，穿透提高10%，若3格范围内敌方数量大于等于2，穿透额外提高5%。"
 },
 {
-    "image" : "/touxiang/律.png",
+    "image" : "/touxiang/律.webp",
     "name" : "律",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -1331,7 +1331,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/白鹿.png",
+    "image" : "/touxiang/白鹿.webp",
     "name" : "白鹿",
     "gender" : "女",
     "shuxiang" : "暗",
@@ -1343,7 +1343,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/波旬尉迟良.png",
+    "image" : "/touxiang/波旬尉迟良.webp",
     "name" : "波旬尉迟良",
     "gender" : "男",
     "shuxiang" : "幽",
@@ -1355,7 +1355,7 @@
     "zhenfaBuffer" : "上阵波旬尉迟良和「铁卫」，「祝由」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，若自身气血百分比大于等于目标，主动攻击「对战中」伤害提高15%。"
 },
 {
-    "image" : "/touxiang/禄存高皇君.png",
+    "image" : "/touxiang/禄存高皇君.webp",
     "name" : "禄存高皇君",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1367,7 +1367,7 @@
     "zhenfaBuffer" : "上阵禄存高皇君和至少2位「冰」属相英灵时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，2格范围内存在其他「冰」属相角色，伤害、穿透提高8%。"
 },
 {
-    "image" : "/touxiang/相胤.png",
+    "image" : "/touxiang/相胤.webp",
     "name" : "相胤",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -1379,7 +1379,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/景乐齐.png",
+    "image" : "/touxiang/景乐齐.webp",
     "name" : "景乐齐",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -1391,7 +1391,7 @@
     "zhenfaBuffer" : "上阵景乐齐和「咒师」，「铁卫」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，若携带的「有益状态」数量大于等于目标，则「对战中」伤害提高15%。"
 },
 {
-    "image" : "/touxiang/玉觞.png",
+    "image" : "/touxiang/玉觞.webp",
     "name" : "玉觞",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -1403,7 +1403,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/六歧.png",
+    "image" : "/touxiang/六歧.webp",
     "name" : "六歧",
     "gender" : "男",
     "shuxiang" : "冰",
@@ -1415,7 +1415,7 @@
     "zhenfaBuffer" : "上阵六歧和「咒师」，「斗将」英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，自身携带「有害状态」数量小于等于3个时，伤害和免伤提高8%。"
 },
 {
-    "image" : "/touxiang/陆文生.png",
+    "image" : "/touxiang/陆文生.webp",
     "name" : "陆文生",
     "gender" : "男",
     "shuxiang" : "雷",
@@ -1427,7 +1427,7 @@
     "zhenfaBuffer" : "上阵陆文生和「暗」，「幽」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，主动攻击「对战中」若自身气血小于等于目标，伤害和暴击率提高8%。"
 },
 {
-    "image" : "/touxiang/妙弋.png",
+    "image" : "/touxiang/妙弋.webp",
     "name" : "妙弋",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1439,7 +1439,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/天玄义剑.png",
+    "image" : "/touxiang/天玄义剑.webp",
     "name" : "天玄义剑",
     "gender" : "男",
     "shuxiang" : "光",
@@ -1451,7 +1451,7 @@
     "zhenfaBuffer" : "上阵天玄义剑和「冰」，「光」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，主动攻击「对战中」若自身气血大于等于80%，伤害提高10%，若气血100%，则伤害提高至15%。"
 },
 {
-    "image" : "/touxiang/地仙罗刹.png",
+    "image" : "/touxiang/地仙罗刹.webp",
     "name" : "地仙罗刹",
     "gender" : "女",
     "shuxiang" : "冰",
@@ -1463,7 +1463,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/岭外飞燕.png",
+    "image" : "/touxiang/岭外飞燕.webp",
     "name" : "岭外飞燕",
     "gender" : "女",
     "shuxiang" : "炎",
@@ -1475,7 +1475,7 @@
     "zhenfaBuffer" : "上阵岭外飞燕和「御风」，「铁卫」英灵至少各一名时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提升15%，主动攻击「对战后」额外附加1次「固定伤害」（目标当前气血*20%）。"
 },
 {
-    "image" : "/touxiang/闻任宇.png",
+    "image" : "/touxiang/闻任宇.webp",
     "name" : "闻任宇",
     "gender" : "男",
     "shuxiang" : "冰",
@@ -1487,7 +1487,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/哪吒.png",
+    "image" : "/touxiang/哪吒.webp",
     "name" : "哪吒",
     "gender" : "男",
     "shuxiang" : "炎",
@@ -1499,7 +1499,7 @@
     "zhenfaBuffer" : "上阵哪吒和「光」，「幽」属相英灵至少各一位时，激活战阵。所有我方上阵角色物攻，物防，法攻，法防提高15%，主动攻击「对战中」若自身移动力大于目标，伤害、暴击率提高8%。"
 },
 {
-    "image" : "/touxiang/苏妲己.png",
+    "image" : "/touxiang/苏妲己.webp",
     "name" : "苏妲己",
     "gender" : "女",
     "shuxiang" : "幽",
@@ -1511,7 +1511,7 @@
     "zhenfaBuffer" : ""
 },
 {
-    "image" : "/touxiang/杨戬.png",
+    "image" : "/touxiang/杨戬.webp",
     "name" : "杨戬",
     "gender" : "男",
     "shuxiang" : "光",
